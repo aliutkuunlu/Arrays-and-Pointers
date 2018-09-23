@@ -1,4 +1,4 @@
-This is a mini game simulation such has age of empires.
+This is a mini game simulation such as age of empires.
 
 Functions created by using pointers and arrays.
 
